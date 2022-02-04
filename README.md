@@ -8,7 +8,7 @@ description: >-
 
 In development.
 
-```
+```lua
 --References
 local ui_get = ui.get
 local ui_set = ui.set
